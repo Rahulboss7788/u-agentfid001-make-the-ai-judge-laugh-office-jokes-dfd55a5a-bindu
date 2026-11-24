@@ -1,0 +1,1 @@
+{"description":"One-line office joke entry for make.fun's Make the AI Judge Laugh: Office Jokes bounty.","engines":{"node":">=22"},"license":"MIT","name":"u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a-bindu","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
